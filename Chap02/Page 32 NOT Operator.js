@@ -1,0 +1,2 @@
+needToShowerToday;
+!needToShowerToday;

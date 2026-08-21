@@ -1,0 +1,2 @@
+var javascriptIsCool = true;
+javascriptIsCool;
