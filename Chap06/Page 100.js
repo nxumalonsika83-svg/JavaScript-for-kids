@@ -1,0 +1,4 @@
+var animals = ["Lion", "Flamingo", "Polar Bear", "Boa Constrictor"];
+for (var i = 0; i < animals.length; i++) {
+ console.log("This zoo contains a " + animals[i] + ".");
+};
