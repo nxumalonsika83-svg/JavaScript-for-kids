@@ -5,3 +5,13 @@ var drawCats = function (howManyTimes) {
   }
 };
 drawCats(10); // You can put any number here instead of 10.
+0 =^.^=
+1 =^.^=
+2 =^.^=
+3 =^.^=
+4 =^.^=
+5 =^.^=
+6 =^.^=
+7 =^.^=
+8 =^.^=
+9 =^.^=
