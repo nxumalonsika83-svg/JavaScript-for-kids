@@ -5,4 +5,4 @@ var fifthLetter = function (name) {
  return "The fifth letter of your name is " + name[4] + ".";
 };
 fifthLetter("Nicholas");
-
+'The fifth letter of your name is o.'
